@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 asgiref==3.3.1
 click==8.0.1
 colorama==0.4.4
@@ -10,7 +10,6 @@ MarkupSafe==2.0.1
 pytz==2021.1
 sqlparse==0.4.1
 Werkzeug==2.0.1
-=======
 asgiref==3.3.1
 click==8.0.1
 colorama==0.4.4
@@ -22,4 +21,4 @@ MarkupSafe==2.0.1
 pytz==2021.1
 sqlparse==0.4.1
 Werkzeug==2.0.1
->>>>>>> 2c49b18698221c97ba629e7c294767ff8dddfd8a
+
